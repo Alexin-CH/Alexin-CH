@@ -5,12 +5,12 @@
 - 🧠 Specializing in advanced computational optical systems and machine learning integration
 
 ## 🚀 Current Research & Projects
-### Optical Diffractive Response Modeling
+### Optical Diffractive Response Modeling : [DiffractML](https://github.com/Alexin-CH/DiffractML)
 
 I'm currently working on a research project about **optical diffractive response modeling**, where I use ***RCWA*** and ***PyTorch*** to compute approximations of optical responses.
 The goal is to combine this method with ***machine learning*** in order to enhance the *useability* and *precision* of the tool.
 
-### Adversarial Attack on NIDS
+### Adversarial Attack on NIDS  : [AdversarialNIDS](https://github.com/Alexin-CH/AdversarialNIDS)
 
 This project began as a school assignment to explore adversarial attacks on Network Intrusion Detection Systems (NIDS), and I am now expanding it for personal research and tests. I aim to deepen my understanding of how these attacks can exploit system vulnerabilities while developing new methods to generate deceptive traffic. This expansion will not only enhance my technical skills but also contribute to developing more resilient network security strategies.
 
