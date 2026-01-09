@@ -8,7 +8,7 @@
 ### Optical Diffractive Response Modeling : [DiffractML](https://github.com/Alexin-CH/DiffractML)
 
 I'm currently working on a research project about **optical diffractive response modeling**, where I use ***RCWA*** and ***PyTorch*** to compute approximations of optical responses.
-The goal is to combine this method with ***machine learning*** in order to enhance the *useability* and *precision* of the tool.
+The goal is to combine this method with ***machine learning*** in order to enhance the *useability* and *precision* of the tool (**[TORCWA](https://github.com/Alexin-CH/TORCWA)**).
 
 ### Adversarial Attack on NIDS  : [AdversarialNIDS](https://github.com/Alexin-CH/AdversarialNIDS)
 
