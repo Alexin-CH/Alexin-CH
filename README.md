@@ -7,12 +7,12 @@
 ## 🚀 Current Research & Projects
 ### Optical Diffractive Response Modeling : [DiffractML](https://github.com/Alexin-CH/DiffractML)
 
-I'm currently working on a research project about **optical diffractive response modeling**, where I use ***RCWA*** and ***PyTorch*** to compute approximations of optical responses.
+A research project about **optical diffractive response modeling**. It uses ***RCWA*** and ***PyTorch*** to compute approximations of optical responses.
 The goal is to combine this method with ***machine learning*** in order to enhance the *useability* and *precision* of the tool (**[TORCWA](https://github.com/Alexin-CH/TORCWA)**).
 
 ### Freeform Reflector Design : [ReflectorML](https://github.com/Alexin-CH/ReflectorML)
 
-I'm also working on another research project about **freeform reflector design** using **Physics-Informed Machine Learning (PINN)**.
+Another research project about **freeform reflector design** using **Physics-Informed Machine Learning (PINN)**.
 It aims to use the Monge-Ampere equation to help the learning process reduce computational costs, enforce optical constraints and improve solution accuracy.
 
 ### Adversarial Attack on NIDS  : [AdversarialNIDS](https://github.com/Alexin-CH/AdversarialNIDS)
