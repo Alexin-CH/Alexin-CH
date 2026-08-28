@@ -1,7 +1,7 @@
 # Hi there! I'm Alexin 👨‍🔬🔬
 
 ## 🎓 Academic Profile
-- 📡 **Machine Learning & Photonics Engineering Student**
+- 📡 **Photonics & Machine Learning Engineering Student**
 - 🧠 Specializing in advanced computational optical systems and machine learning integration
 
 ## 🚀 Current Research & Projects
