@@ -21,7 +21,7 @@ This project began as a school assignment to explore adversarial attacks on **Ne
 
 ### Robotics Leadership
 
-As the **President of University Robotics Team**, I am coordinating all teams to develop our robot for the ***'Coupe de France de Robotique'***. I'm currently working on **physics simulation**, **image processing**, and **robot control**.
+As the **President of University Robotics Team**, I was coordinating all teams to develop our robot for the ***'Coupe de France de Robotique'***. I was working on **physics simulation**, **image processing**, and **robot control**.
 
 ## 🧪 Technical Background, Technologies & Tools
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-1E90FF?style=for-the-badge&logo=python&logoColor=white)
